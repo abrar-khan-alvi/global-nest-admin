@@ -1,0 +1,6 @@
+{
+  "name": "Global Nest Admin Dashboard",
+  "description": "A responsive, modern, and clean admin dashboard for Global Nest e-commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
